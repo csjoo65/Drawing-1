@@ -2,8 +2,10 @@ function setup() {
   createCanvas(640, 480); 
   background(122,181,255);
     stroke(255);
-     Rect(70,70,50,10);
-    rect(60,80,70,10);
+ 
+    Rect(70,70,50,10);
+ 
+     rect(60,80,70,10);
     rect(50,90,40,20); 
     rect(40,110,20,20);
     rect(50,130,20,10);
