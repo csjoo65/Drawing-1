@@ -3,10 +3,10 @@ function setup() {
   background(122,181,255);
   
   stroke(255);
-//black
+//black 
     Rect(70,70,50,10);
     rect(60,80,70,10);
-    rect(50,90,40,20); s
+    rect(50,90,40,20); 
     rect(40,110,20,20);
     rect(50,130,20,10);
     rect(70,110,10,10);
