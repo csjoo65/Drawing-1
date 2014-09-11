@@ -5,7 +5,7 @@ function setup() {
   stroke(255);
 
 //black
-    Rect(70,70,50,10);
+    rect(70,70,50,10);
     rect(60,80,70,10);
     rect(50,90,40,20);
     rect(40,110,20,20);
